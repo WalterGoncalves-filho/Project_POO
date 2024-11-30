@@ -1,1 +1,1 @@
-# Gestão-de-Resíduos
+# Projeto POO Java 
